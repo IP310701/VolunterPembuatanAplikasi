@@ -7,3 +7,4 @@ Volunter, silahkan lakukan PR(pull-request) pada berkas ini ya. silahkan gunakan
 Berikut daftar volunter yang diterima:  
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Indra Permana, [linkedin](https://www.linkedin.com/in/indra-permana-825050281/).
